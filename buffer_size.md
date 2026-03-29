@@ -1,8 +1,8 @@
 <div align="center">
 
 <p align="left" style="width: 85%; margin: auto; line-height: 1.5;">
-  <b>Table 4:</b> Performance scaling analysis of <b>buffer size</b> on the <b>Qwen2.5-7B-Instruct</b> model. 
-  Experiments are conducted under <b>2-bit</b> KV cache quantization with a fixed <b>residual window = 64</b>. 
+  <b>Table 4:</b> Performance scaling analysis of buffer size on the Qwen2.5-7B-Instruct model. 
+  Experiments are conducted under 2-bit KV cache quantization with a fixed residual window = 64. 
   Throughput (tokens/s) and Peak Memory (GB) are reported across various sequence lengths (2K and 4K) to evaluate the efficiency of the proposed buffering strategy.
 </p>
 
@@ -14,7 +14,7 @@
       <th style="color: #666;">BS=0</th>
       <th>BS=16</th>
       <th>BS=32</th>
-      <th style="background-color: #e8f0fe;">BS=64</th>
+      <th>BS=64</th>
       <th>BS=128</th>
       <th>BS=256</th>
     </tr>
@@ -26,16 +26,16 @@
       <td style="color: #666;">38.27</td>
       <td>212.30</td>
       <td>253.35</td>
-      <td style="background-color: #e8f0fe;">279.14</td>
+      <td>279.14</td>
       <td>291.70</td>
-      <td><b>299.66</b></td>
+      <td>299.66</td>
     </tr>
     <tr>
       <td align="left" style="padding: 8px;">Memory Peak (GB)</td>
       <td style="color: #666;">16.98</td>
       <td>16.98</td>
       <td>17.01</td>
-      <td style="background-color: #e8f0fe;">16.98</td>
+      <td>16.98</td>
       <td>17.05</td>
       <td>16.99</td>
     </tr>
@@ -54,7 +54,7 @@
       <td style="color: #666;">19.24</td>
       <td>19.22</td>
       <td>19.26</td>
-      <td style="background-color: #e8f0fe;">19.26</td>
+      <td>19.26</td>
       <td>19.34</td>
       <td>19.28</td>
     </tr>
