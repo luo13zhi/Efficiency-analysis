@@ -45,7 +45,7 @@
       <td style="color: #666;">26.43</td>
       <td>145.28</td>
       <td>165.59</td>
-      <td style="background-color: #e8f0fe; font-weight: bold; color: #1a73e8;">171.76</td>
+      <td>171.76</td>
       <td>169.36</td>
       <td>163.57</td>
     </tr>
