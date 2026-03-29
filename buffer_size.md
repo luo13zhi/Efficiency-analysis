@@ -11,7 +11,7 @@
     <tr style="background-color: #f1f3f4; border-bottom: 2px solid #333;">
       <th style="padding: 12px;">Seqlen</th>
       <th style="padding: 12px;">Metric</th>
-      <th style="color: #666;">BS=0</th>
+      <th>BS=0</th>
       <th>BS=16</th>
       <th>BS=32</th>
       <th>BS=64</th>
@@ -23,7 +23,7 @@
     <tr>
       <td rowspan="2" style="font-weight: bold; background-color: #f8f9fa;">2K</td>
       <td align="left" style="padding: 8px;">Throughput (↑)</td>
-      <td style="color: #666;">38.27</td>
+      <td>38.27</td>
       <td>212.30</td>
       <td>253.35</td>
       <td>279.14</td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td align="left" style="padding: 8px;">Memory Peak (GB)</td>
-      <td style="color: #666;">16.98</td>
+      <td>16.98</td>
       <td>16.98</td>
       <td>17.01</td>
       <td>16.98</td>
@@ -42,7 +42,7 @@
     <tr style="border-top: 2px solid #ccc;">
       <td rowspan="2" style="font-weight: bold; background-color: #f8f9fa;">4K</td>
       <td align="left" style="padding: 8px;">Throughput (↑)</td>
-      <td style="color: #666;">26.43</td>
+      <td>26.43</td>
       <td>145.28</td>
       <td>165.59</td>
       <td>171.76</td>
@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td align="left" style="padding: 8px;">Memory Peak (GB)</td>
-      <td style="color: #666;">19.24</td>
+      <td>19.24</td>
       <td>19.22</td>
       <td>19.26</td>
       <td>19.26</td>
