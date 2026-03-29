@@ -9,8 +9,8 @@
       <th rowspan="2">BS</th>
       <th rowspan="2">Seqlen</th>
       <th colspan="2">Ours</th>
-      <th colspan="2">KIVI (Estimated)</th>
-      <th colspan="2">SKVQ (Estimated)</th>
+      <th colspan="2">KIVI</th>
+      <th colspan="2">SKVQ</th>
     </tr>
     <tr align="center">
       <th>Mem</th>
