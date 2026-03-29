@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><b>Table 1:</b> Efficiency evaluation on Llama-3.1-8B-Instruct on NVIDIA A100 40G. Bit width is set at 2, residual length is set at
+<p><b>Table 1: Efficiency evaluation on Llama-3.1-8B-Instruct on NVIDIA A100 40G. Bit width is set at 2, residual length is set at
 0, buffer size is set 64. BS is abbreviated for batch size. Mem is abbreviated for memory. </p>
 
 <table border="1">
@@ -36,16 +36,16 @@
     </tr>
     <tr><td>2K</td><td>16.44</td><td>38.57</td><td>16.46</td><td>146.71</td><td>16.46</td><td>89.91</td></tr>
     <tr><td>4K</td><td>17.81</td><td>20.17</td><td>17.81</td><td>103.33</td><td>17.83</td><td>63.44</td></tr>
-    <tr><td>8K</td><td>20.48</td><td>10.05</td><td><b>20.48</b></td><td><b>52.15</b></td><td><b>20.50</b></td><td><b>31.22</b></td></tr>
-    <tr><td>16K</td><td>25.89</td><td>8.91</td><td><b>25.90</b></td><td><b>24.88</b></td><td><b>25.90</b></td><td><b>14.50</b></td></tr>
+    <tr><td>8K</td><td>20.48</td><td>10.05</td><td>20.48</td><td>52.15</td><td>20.50</td><td>31.22</td></tr>
+    <tr><td>16K</td><td>25.89</td><td>8.91</td><td>25.90</td><td>24.88</td><td>25.90</td><td>14.50</td></tr>
     <tr style="border-top: 2px solid #ccc;">
       <td rowspan="5">32</td>
       <td>1K</td><td>16.56</td><td>44.97</td><td>16.61</td><td>334.76</td><td>16.56</td><td>353.65</td>
     </tr>
     <tr><td>2K</td><td>17.93</td><td>39.09</td><td>17.96</td><td>237.95</td><td>17.94</td><td>201.22</td></tr>
-    <tr><td>4K</td><td>20.56</td><td>20.80</td><td><b>20.56</b></td><td><b>115.40</b></td><td><b>20.57</b></td><td><b>98.45</b></td></tr>
-    <tr><td>8K</td><td>25.92</td><td>12.93</td><td><b>25.93</b></td><td><b>58.20</b></td><td><b>25.93</b></td><td><b>45.10</b></td></tr>
-    <tr><td>16K</td><td>36.54</td><td>11.85</td><td><b>36.54</b></td><td><b>28.15</b></td><td><b>36.56</b></td><td><b>21.30</b></td></tr>
+    <tr><td>4K</td><td>20.56</td><td>20.80</td><td>20.56</td><td>115.40</td><td>20.57</td><td>98.45</td></tr>
+    <tr><td>8K</td><td>25.92</td><td>12.93</td><td>25.93</td><td>58.20</td><td>25.93</td><td>45.10</td></tr>
+    <tr><td>16K</td><td>36.54</td><td>11.85</td><td>36.54</td><td>28.15</td><td>36.56</td><td>21.30</td></tr>
   </tbody>
 </table>
 
