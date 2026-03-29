@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left" style="width: 85%; margin: auto; line-height: 1.5;">
-  <b>Table 4:</b> Performance analysis of <b>buffer size</b> on the <b>Qwen2.5-7B-Instruct</b> model. 
+  <b>Table 4:</b> Performance scaling analysis of <b>buffer size</b> on the <b>Qwen2.5-7B-Instruct</b> model. 
   Experiments are conducted under <b>2-bit</b> KV cache quantization with a fixed <b>residual window = 64</b>. 
   Throughput (tokens/s) and Peak Memory (GB) are reported across various sequence lengths (2K and 4K) to evaluate the efficiency of the proposed buffering strategy.
 </p>
