@@ -37,7 +37,7 @@
     </tr>
     <tr style="border-top: 2px solid #ccc;">
       <td rowspan="2" style="font-weight: bold; background-color: #f9f9f9;">Group B<br>sample len=4096</td>
-      <td align="left" style="padding: 8px; background-color: #f9f9f9;">nsample</td>
+      <td style="padding: 8px; background-color: #f9f9f9;">nsample</td>
       <td>32</td>
       <td>64</td>
       <td>128</td>
@@ -47,7 +47,7 @@
       <td style="background-color: #eee; color: #999;">-</td>
     </tr>
     <tr>
-      <td align="left" style="padding: 8px;">PPL</td>
+      <td style="padding: 8px;">PPL</td>
       <td>5.134</td>
       <td>5.133</td>
       <td>5.133</td>
