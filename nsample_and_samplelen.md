@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left" style="width: 85%; margin: auto; line-height: 1.5;">
-  <b>Table 4:</b> Ablation study of sample length and nsample (number of samples) on Llama-2-7B-hf perplexity (PPL). 
+  <b>Table 5:</b> Ablation study of sample length and nsample (number of samples) on Llama-2-7B-hf perplexity (PPL). 
   Evaluated on the WikiText-2 dataset. The table is divided into two control groups to study the impact of calibration setting on quantization performance.
 </p>
 
