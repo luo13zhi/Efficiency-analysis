@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left" style="width: 80%; margin: auto;">
-  <b>Table 3:</b> Ablation study of different transformation and smoothing components on the <b>Llama-2-7B-hf</b> model. 
+  <b>Table R3:</b> Ablation study of different transformation and smoothing components on the <b>Llama-2-7B-hf</b> model. 
   Perplexity (PPL) is evaluated on the <b>WikiText-2</b> dataset with <b>4-bit</b> KV cache quantization. 
   Hyper-parameters are fixed at <b>buffer size = 64</b>, <b>group size = 64</b>, and <b>residual window = 0</b>. 
   The configuration with both Hadamard and Givens transformations (Smooth Factor 2.5) achieves the optimal PPL.
