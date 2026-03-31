@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left" style="width: 85%; margin: auto; line-height: 1.5;">
-  <b>Table 5:</b> Perplexity comparison among different calibration datasets on Llama-2-7B-hf model. 
+  <b>Table 6:</b> Perplexity comparison among different calibration datasets on Llama-2-7B-hf model. 
   Bit width is set at 4 and residual length is set at 0 for all datasets. 
   Calibration is performed with sample len = 4096 and nsample = 256.
 </p>
