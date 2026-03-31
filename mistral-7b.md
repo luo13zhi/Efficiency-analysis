@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><b>Table 1:</b> Efficiency evaluation on Mistral-7B-Instruct-v0.2 on NVIDIA A100 40G. Bit width is set at 2, residual length is set at
+<p><b>Table R2:</b> Efficiency evaluation on Mistral-7B-Instruct-v0.2 on NVIDIA A100 40G. Bit width is set at 2, residual length is set at
 0, buffer size is set 64. BS is abbreviated for batch size. Mem is abbreviated for memory. </p>
   <table border="1" style="border-collapse: collapse; text-align: center;">
     <thead>
