@@ -20,7 +20,7 @@
 <br>
 
 <p align="left" style="width: 90%; margin: auto; font-family: serif; line-height: 1.6; font-size: 0.95em;">
-  <b>Figure 2. The effect of progressive smoothing on the uniform matrix:</b> (a) original uniform matrix; (b) after Hadamard transform, all magnitudes are concentrated in a dominant channel; (c) following additional Givens rotation, the matrix is restored to its original uniform state.
+  <b>Figure R2. The effect of progressive smoothing on the uniform matrix:</b> (a) original uniform matrix; (b) after Hadamard transform, all magnitudes are concentrated in a dominant channel; (c) following additional Givens rotation, the matrix is restored to its original uniform state.
 </p>
 
 </div>
