@@ -22,7 +22,7 @@
 <br>
 
 <p align="left" style="width: 90%; margin: auto; font-family: serif; line-height: 1.4;">
-  <b>Figure 1. Progressive smoothing of outlier channels in calibration data via Hadamard transform and Givens rotation:</b> (a) original matrix with prominent outliers and explicit outlier tokens; (b) after Hadamard transform, extreme outliers channels are attenuated but the deviation of outlier tokens from the mainstream channel distribution are exacerbated.; (c) following additional Givens rotation, the distribution becomes more uniform, the distortion caused by Hadamard tranform is alleviated.
+  <b>Figure R1. Progressive smoothing of outlier channels in calibration data via Hadamard transform and Givens rotation:</b> (a) original matrix with prominent outliers and explicit outlier tokens; (b) after Hadamard transform, extreme outliers channels are attenuated but the deviation of outlier tokens from the mainstream channel distribution are exacerbated.; (c) following additional Givens rotation, the distribution becomes more uniform, the distortion caused by Hadamard tranform is alleviated.
 </p>
 
 </div>
